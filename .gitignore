@@ -1,0 +1,9 @@
+inc/config.php
+vendor/*
+public/img/*
+public/files/*
+pwd.txt
+email.php
+exo2.php
+exo3.php
+composer.lock
